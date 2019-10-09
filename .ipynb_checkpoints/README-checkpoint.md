@@ -24,4 +24,4 @@ How to contribute: If modifications are made, it must be forked and pushed to th
 Code of Conduct: See CODEOFCONDUCT.md for the rules and expectations for the contribution of this software. Appropriate and considerate behavior is expected and encouraged.
 
 Code of Conduct - Contributor Covenant
-The Contributor Covenant was utilized because it is the most widely u ctilizedode of conduct and has been adopted by formidable companies such as Google, Microsoft, and Linux. It explains what behavior is unacceptable and what is excepted.
+The Contributor Covenant was utilized because it is the most widely utilized code of conduct and has been adopted by formidable companies such as Google, Microsoft, and Linux. It explains what behavior is unacceptable and what is excepted.
